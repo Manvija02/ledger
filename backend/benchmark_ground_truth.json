@@ -1,0 +1,71 @@
+[
+  {
+    "doc_id": "doc_01_w2",
+    "doc_type": "W-2",
+    "path": "/home/claude/benchmark/docs/doc_01_w2.png",
+    "fields": {
+      "employer_name": "Union Square Retail Co",
+      "employee_name": "Linda Nguyen",
+      "box1_wages": 67428.14,
+      "box2_fed_tax_withheld": 8548.9,
+      "box3_ss_wages": 66895.06
+    }
+  },
+  {
+    "doc_id": "doc_02_w2",
+    "doc_type": "W-2",
+    "path": "/home/claude/benchmark/docs/doc_02_w2.png",
+    "fields": {
+      "employer_name": "Brightline Manufacturing Inc",
+      "employee_name": "Linda Okafor",
+      "box1_wages": 41188.3,
+      "box2_fed_tax_withheld": 5199.47,
+      "box3_ss_wages": 40577.09
+    }
+  },
+  {
+    "doc_id": "doc_03_w2",
+    "doc_type": "W-2",
+    "path": "/home/claude/benchmark/docs/doc_03_w2.png",
+    "fields": {
+      "employer_name": "Union Square Retail Co",
+      "employee_name": "Robert Kowalski",
+      "box1_wages": 107537.63,
+      "box2_fed_tax_withheld": 17785.97,
+      "box3_ss_wages": 105022.67
+    }
+  },
+  {
+    "doc_id": "doc_04_1099nec",
+    "doc_type": "1099-NEC",
+    "path": "/home/claude/benchmark/docs/doc_04_1099nec.png",
+    "fields": {
+      "payer_name": "Meridian Software Corp",
+      "recipient_name": "Michael Nguyen",
+      "box1_nonemployee_comp": 48010.83,
+      "box4_fed_tax_withheld": 0.0
+    }
+  },
+  {
+    "doc_id": "doc_05_1099nec",
+    "doc_type": "1099-NEC",
+    "path": "/home/claude/benchmark/docs/doc_05_1099nec.png",
+    "fields": {
+      "payer_name": "Union Square Retail Co",
+      "recipient_name": "David Reyes",
+      "box1_nonemployee_comp": 20116.54,
+      "box4_fed_tax_withheld": 0.0
+    }
+  },
+  {
+    "doc_id": "doc_06_1099nec",
+    "doc_type": "1099-NEC",
+    "path": "/home/claude/benchmark/docs/doc_06_1099nec.png",
+    "fields": {
+      "payer_name": "Harborview Medical Group",
+      "recipient_name": "Linda Patel",
+      "box1_nonemployee_comp": 26035.78,
+      "box4_fed_tax_withheld": 0.0
+    }
+  }
+]
